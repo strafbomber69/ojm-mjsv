@@ -3,18 +3,18 @@ border: black;
 padding: 100px;
 
 }
-body{
+body {
 
-background-color: beige;
+background-color: rgb(241, 239, 233);
 }
-img{
-width:150px;
-height:150px;
-border-radius:50%;
-object-fit:cover;
+img {
+   width:150px;
+   height:150px;
+   border-radius:50%;
+   object-fit:cover;
 }
-button{ background-color: rgb(49, 133, 63);
-color: #fff7f7;
-border: black;
+button { 
+    background-color: rgb(76, 112, 66);
+    border: black;
 
 }
